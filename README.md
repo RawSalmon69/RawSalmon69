@@ -13,7 +13,7 @@
 
 - 📄 My Portfolio and CV is available [here](https://drive.google.com/file/d/1GwD9OqPHcuuDf5BTPC8X0y_FRF5ENO5H/view?usp=sharing)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">💬 Connect with me:</h3>
 <div> 
 <a href="https://github.com/RawSalmon69" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/punthawas_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>

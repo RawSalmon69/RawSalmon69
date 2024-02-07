@@ -13,13 +13,13 @@
 
 - 📄 My Portfolio and CV is available [here](https://drive.google.com/file/d/1GwD9OqPHcuuDf5BTPC8X0y_FRF5ENO5H/view?usp=sharing)
 
-<div> <a href="https://www.linkedin.com/in/Phanthawas Jirakiattikun" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<h3 align="left">Connect with me:</h3>
+<div> 
 <a href="https://github.com/RawSalmon69" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/punthawas_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:phanthawasjira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/Phanthawas Jirakiattikun" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="Phanthawas Jirakiattikun" height="30" width="40" /></a><a href="https://fb.com/Phanthawas Jirakiattikun" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="Phanthawas Jirakiattikun" height="30" width="40" /></a><a href="https://instagram.com/punthawas_" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="punthawas_" height="30" width="40" /></a></p>
+<a href="https://www.linkedin.com/in/Phanthawas Jirakiattikun" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">

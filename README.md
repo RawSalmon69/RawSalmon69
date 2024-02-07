@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently dipping my toes in **Frameworks and Optimizing**
 
-- 👨‍💻 All of my projects are available at [rawsalmon69.github.io/](https://rawsalmon69.github.io/)
+- 👨‍💻 All of my projects are available at [rawsalmon69.github.io/](https://rawsalmon69.github.io)
 
 - 📫 How to reach me **phanthawasjira@gmail.com**
 

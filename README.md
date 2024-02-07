@@ -55,4 +55,4 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RawSalmon69&theme=2077" height="180em" />
 </div>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align = "center" >![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)</div>

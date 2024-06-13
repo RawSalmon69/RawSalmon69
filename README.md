@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Point of Sale on Cloud](https://github.com/RawSalmon69/PointOfSale_project) [on pause]
   
-- 👨‍💻 All of my projects are available at [rawsalmon69.github.io](https://rawsalmon69.github.io)
+- 👨‍💻 All of my projects are available at [rawsalmon69.github.io](https://rawsalmon69.github.io) [on pause]
 
 - 📫 How to reach me **phanthawasjira@gmail.com**
 

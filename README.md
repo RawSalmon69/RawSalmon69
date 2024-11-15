@@ -1,4 +1,6 @@
-<img align="center" width="200" height="100" src=https://user-images.githubusercontent.com/74038190/216644507-4f06ea29-bf55-4356-aac0-d42751461a9d.gif></img>
+<div align="center">
+<img align="center" width="600" height="250" src=https://user-images.githubusercontent.com/74038190/216644507-4f06ea29-bf55-4356-aac0-d42751461a9d.gif></img>
+</div>
 
 <h1 align="center">Hi 👋, I'm Phanthawas Jirakiattikun</h1>
 <h3 align="center">A passionate Computer Engineering currently doing Full-Stack Developing</h3>

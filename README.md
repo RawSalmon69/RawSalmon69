@@ -1,5 +1,5 @@
 <div align="center" width="200" height="100">
-<img>![GIF](https://user-images.githubusercontent.com/74038190/216644507-4f06ea29-bf55-4356-aac0-d42751461a9d.gif)</img>
+<img src=https://user-images.githubusercontent.com/74038190/216644507-4f06ea29-bf55-4356-aac0-d42751461a9d.gif></img>
 </div>
 
 <h1 align="center">Hi 👋, I'm Phanthawas Jirakiattikun</h1>

@@ -6,9 +6,9 @@
 <h3 align="center">A passionate Computer Engineering currently doing Full-Stack Developing</h3>
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=rawsalmon69&label=Profile%20views&color=0e75b6&style=flat" alt="rawsalmon69" /> </p>
-
+<!---
 - 🔭 I’m currently working on [Point of Sale on Cloud](https://github.com/RawSalmon69/PointOfSale_project) [on pause]
-  
+  -->
 - 👨‍💻 All of my projects are available at [rawsalmon69.github.io](https://rawsalmon69.github.io) [on pause]
 
 - 📫 How to reach me **phanthawasjira@gmail.com**

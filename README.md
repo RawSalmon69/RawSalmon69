@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **phanthawasjira@gmail.com**
 
-- 📄 My Portfolio and CV is available [here](https://drive.google.com/file/d/1-ainCCJVwOWWWQppxo_S8J593yc6J6NB/view?usp=drive_link)
+- 📄 My Portfolio and CV is available [here](https://drive.google.com/file/d/1-ainCCJVwOWWWQppxo_S8J593yc6J6NB/view?usp=sharing)
 
 <h3 align="left">💬 Connect with me:</h3> 
 <div> 

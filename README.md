@@ -80,8 +80,10 @@
 <a href="https://github.com/RawSalmon69">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RawSalmon69&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RawSalmon69&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RawSalmon69&theme=2077" height="180em" />
+<!---
+ <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RawSalmon69&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RawSalmon69&theme=2077" height="180em" />
+ -->
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RawSalmon69&theme=2077" height="180em" />
 </div>
 

@@ -12,16 +12,14 @@
   
 - 👨‍💻 All of my projects are available at [phanthawas.dev](https://phanthawas.dev/)
 
-- 📫 How to reach me [contact@phanthawas.dev](mailto:contact@phanthawas.dev) / [LinkedIn](https://www.linkedin.com/in/phanthawas-jirakiattikun-9359b229a/)
-
 - 📄 My Portfolio and CV is available [here](https://drive.google.com/file/d/1-7gFkplOEwk_rsWq-sr7Oevy7g7CMp3w/view)
 
 <h3 align="left">💬 Connect with me:</h3> 
 <div> 
 <a href="https://github.com/RawSalmon69" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/punthawas_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:phanthawasjira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/Phanthawas Jirakiattikun" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "mailto:contact@phanthawas.dev"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/phanthawas-jirakiattikun-9359b229a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 <dl>

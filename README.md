@@ -12,7 +12,7 @@
   
 - 👨‍💻 All of my projects are available at [phanthawas.dev](https://phanthawas.dev/)
 
-- 📫 How to reach me **contact@phanthawas.dev**
+- 📫 How to reach me [contact@phanthawas.dev](mailto:contact@phanthawas.dev) / [LinkedIn](https://www.linkedin.com/in/phanthawas-jirakiattikun-9359b229a/)
 
 - 📄 My Portfolio and CV is available [here](https://drive.google.com/file/d/1-7gFkplOEwk_rsWq-sr7Oevy7g7CMp3w/view)
 

@@ -10,11 +10,11 @@
 - 🔭 I’m currently working on [Point of Sale on Cloud](https://github.com/RawSalmon69/PointOfSale_project) [on pause]
   -->
   
-- 👨‍💻 All of my projects are available at [rawsalmon69.github.io](https://rawsalmon69.github.io)
+- 👨‍💻 All of my projects are available at [phanthawas.dev](https://phanthawas.dev/)
 
 - 📫 How to reach me **phanthawasjira@gmail.com**
 
-- 📄 My Portfolio and CV is available [here](https://drive.google.com/file/d/1-ainCCJVwOWWWQppxo_S8J593yc6J6NB/view?usp=sharing)
+- 📄 My Portfolio and CV is available [here](https://drive.google.com/file/d/1-7gFkplOEwk_rsWq-sr7Oevy7g7CMp3w/view)
 
 <h3 align="left">💬 Connect with me:</h3> 
 <div> 

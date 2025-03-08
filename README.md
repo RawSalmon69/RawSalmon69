@@ -14,13 +14,14 @@
 
 - 📄 My Portfolio and CV is available [here](https://drive.google.com/file/d/1-7gFkplOEwk_rsWq-sr7Oevy7g7CMp3w/view)
 
-<h3 align="left">💬 Connect with me:</h3> 
 <div> 
 <a href="https://github.com/RawSalmon69" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/punthawas" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:contact@phanthawas.dev"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/phanthawas-jirakiattikun-9359b229a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+![Arch](https://camo.githubusercontent.com/72f7521b72e8efa081ea337df1df1ad7ae2949e69da3fc9ab382bc1d6c94b5e6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f417263682532304c696e75782d3137393344313f6c6f676f3d617263682d6c696e7578266c6f676f436f6c6f723d666666267374796c653d666f722d7468652d6261646765)
 
 <dl>
 <h3 align="left">💻 Tech Stack:</h3>

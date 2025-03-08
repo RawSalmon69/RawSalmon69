@@ -5,7 +5,6 @@
 <h1 align="center">Hi 👋, I'm Phanthawas Jirakiattikun</h1>
 <h3 align="center">Back-End / DevOps Engineer | CyberSecurity Enthusiast</h3>
 
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rawsalmon69&label=Profile%20views&color=0e75b6&style=flat" alt="rawsalmon69" /> </p>
 <!---
 - 🔭 I’m currently working on [Point of Sale on Cloud](https://github.com/RawSalmon69/PointOfSale_project) [on pause]
   -->
@@ -60,6 +59,8 @@
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
 </dd>
 </dl>
+
+ <p align="center"> <img src="https://komarev.com/ghpvc/?username=rawsalmon69&label=Profile%20views&color=0e75b6&style=flat" alt="rawsalmon69" /> </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 

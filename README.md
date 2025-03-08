@@ -14,7 +14,7 @@
 
 - 📄 My Portfolio and CV is available [here](https://drive.google.com/file/d/1-7gFkplOEwk_rsWq-sr7Oevy7g7CMp3w/view)
 
-<div> 
+<div align="center"> 
 <a href="https://github.com/RawSalmon69" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/punthawas" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:contact@phanthawas.dev"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

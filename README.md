@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Phanthawas Jirakiattikun</h1>
-<h3 align="center">Back-End / DevOps Engineer && CyberSecurity Enthusiast</h3>
+<h3 align="center">Back-End / DevOps Engineer | CyberSecurity Enthusiast</h3>
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=rawsalmon69&label=Profile%20views&color=0e75b6&style=flat" alt="rawsalmon69" /> </p>
 <!---
@@ -21,7 +21,6 @@
 <a href="https://www.linkedin.com/in/phanthawas-jirakiattikun-9359b229a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-![Arch](https://camo.githubusercontent.com/72f7521b72e8efa081ea337df1df1ad7ae2949e69da3fc9ab382bc1d6c94b5e6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f417263682532304c696e75782d3137393344313f6c6f676f3d617263682d6c696e7578266c6f676f436f6c6f723d666666267374796c653d666f722d7468652d6261646765)
 
 <dl>
 <h3 align="left">💻 Tech Stack:</h3>
@@ -50,9 +49,9 @@
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 </dd>
-<dd><h4 align="left">Tools & Applications</h4></dd>
 <dd>
  
+![Arch](https://camo.githubusercontent.com/72f7521b72e8efa081ea337df1df1ad7ae2949e69da3fc9ab382bc1d6c94b5e6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f417263682532304c696e75782d3137393344313f6c6f676f3d617263682d6c696e7578266c6f676f436f6c6f723d666666267374796c653d666f722d7468652d6261646765)
 ![Git](	https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -61,8 +60,6 @@
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
 </dd>
-
-<dd><h4 align="left">Databases & Cloud</h4></dd>
 <dd>
  
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)

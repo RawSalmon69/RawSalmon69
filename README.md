@@ -10,7 +10,7 @@
   -->
   <br/>
 <div align="center">
-👨‍💻 All of my projects, cv are available at [here](https://phanthawas.dev)
+👨‍💻 All of my projects, cv are available at <a href='https://phanthawas.dev'>phanthawas.dev</a>
 </div>  
 
 <br/>

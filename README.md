@@ -11,6 +11,7 @@
   
 - 👨‍💻 All of my projects, cv are available at [phanthawas.dev](https://phanthawas.dev/)
 
+
 <div align="center"> 
 <a href="https://github.com/RawSalmon69" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/punthawas" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -18,7 +19,7 @@
 <a href = "mailto:contact@phanthawas.dev"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-
+<!---
 <dl>
 <h3 align="left">💻 Tech Stack:</h3>
 <dd><h4 align="left">Programming Languages</h4></dd>
@@ -57,7 +58,7 @@
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
 </dd>
 </dl>
-
+-->
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=rawsalmon69&label=Profile%20views&color=0e75b6&style=flat" alt="rawsalmon69" /> </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">

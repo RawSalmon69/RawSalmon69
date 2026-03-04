@@ -8,9 +8,9 @@
 <!---
 - 🔭 I’m currently working on [Point of Sale on Cloud](https://github.com/RawSalmon69/PointOfSale_project) [on pause]
   -->
-  
-- 👨‍💻 All of my projects, cv are available at [phanthawas.dev](https://phanthawas.dev/)
-
+<div align="center">
+👨‍💻 All of my projects, cv are available at [phanthawas.dev](https://phanthawas.dev/)
+</div>  
 
 <div align="center"> 
 <a href="https://github.com/RawSalmon69" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>

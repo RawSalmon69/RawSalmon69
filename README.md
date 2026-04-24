@@ -11,6 +11,7 @@
   <br/>
 <div align="center">
 👨‍💻 All of my projects, cv are available at <a href='https://phanthawas.dev'>phanthawas.dev</a>
+  I climb and I code, I also sleep sometimes.
 </div>  
 
 <br/>
